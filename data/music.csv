@@ -1,0 +1,33 @@
+Run,Platform,CustomerStatus,Observer,AdCount,Satisfaction
+1,Spotify,First Time,Winston,0,5.425
+2,Spotify,Returning,Winston,0,5.2
+3,Apple,First Time,Winston,0,4.583
+4,Apple,Returning,Winston,0,5.05
+5,Amazon,First Time,Winston,9,4.588
+6,Amazon,Returning,Winston,13,4.647
+7,YouTube,First Time,Winston,8,4.8
+8,YouTube,Returning,Winston,10,5.175
+9,Spotify,First Time,Chia-Lin,4,9.143
+10,Spotify,Returning,Chia-Lin,0,9.062
+11,Apple,First Time,Chia-Lin,0,7.5
+12,Apple,Returning,Chia-Lin,0,8.4
+13,Amazon,First Time,Chia-Lin,8,8.636
+14,Amazon,Returning,Chia-Lin,8,7.692
+15,YouTube,First Time,Chia-Lin,14,8.727
+16,YouTube,Returning,Chia-Lin,0,8.571
+17,Spotify,First Time,Mushaer,0,8.5
+18,Spotify,Returning,Mushaer,9,5.5
+19,Apple,First Time,Mushaer,0,7
+20,Apple,Returning,Mushaer,0,8.2
+21,Amazon,First Time,Mushaer,9,7.7
+22,Amazon,Returning,Mushaer,5,7.6
+23,YouTube,First Time,Mushaer,15,7.5
+24,YouTube,Returning,Mushaer,15,7.77
+25,Spotify,First Time,Aiqing,2,8.4
+26,Spotify,Returning,Aiqing,4,7.6
+27,Apple,First Time,Aiqing,0,7.2
+28,Apple,Returning,Aiqing,0,7.8
+29,Amazon,First Time,Aiqing,7,6.5
+30,Amazon,Returning,Aiqing,9,6.9
+31,YouTube,First Time,Aiqing,12,7.9
+32,YouTube,Returning,Aiqing,5,8.6
