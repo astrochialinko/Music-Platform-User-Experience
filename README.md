@@ -6,5 +6,5 @@
 This project aims to conduct an experiment evaluating which music platform provides the best user experience in the free version (containing ads).
 
 The comparison will be based on two response variables:
-- **Ad Density**: Average duration of ads per one hour of listening (in minutes).
+- **Ad Count**: the total number of advertisements heard per hour of listening.
 - **Music Inventory Satisfaction**: User rating on a subjective 1-10 scale evaluating how satisfied the listener is with the platform’s music inventory.
