@@ -1,5 +1,10 @@
 # Music Platform User Experience
 
+[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
+[![Amazon](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)](https://music.amazon.com/)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/new)
+
 - MATH/STAT 571B Final Project (Spring 2025)
 - Authors: Chia-Lin Ko, Winston Zeng, Mushaer Ahmed, Aiqing Li
 
